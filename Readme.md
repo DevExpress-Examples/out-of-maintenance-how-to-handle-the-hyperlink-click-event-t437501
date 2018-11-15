@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/HyperlinkClickExample/Form1.cs) (VB: [Form1.vb](./VB/HyperlinkClickExample/Form1.vb))
+* [SelectProductForm.cs](./CS/HyperlinkClickExample/Forms/SelectProductForm.cs) (VB: [SelectProductForm.vb](./VB/HyperlinkClickExample/Forms/SelectProductForm.vb))
+<!-- default file list end -->
 # How to: Handle the Hyperlink Click Event
 
 
