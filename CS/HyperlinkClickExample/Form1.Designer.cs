@@ -373,7 +373,7 @@
             this.richEditControl1.Location = new System.Drawing.Point(0, 146);
             this.richEditControl1.MenuManager = this.ribbonControl1;
             this.richEditControl1.Name = "richEditControl1";
-            this.richEditControl1.Options.Hyperlinks.ModifierKeys = System.Windows.Forms.Keys.None;
+            this.richEditControl1.Options.Hyperlinks.ModifierKeys = DevExpress.Portable.Input.PortableKeys.None;
             this.richEditControl1.Size = new System.Drawing.Size(626, 327);
             this.richEditControl1.TabIndex = 0;
             // 
